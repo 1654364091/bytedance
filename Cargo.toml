@@ -1,0 +1,10 @@
+[package]
+name = "bytedance"
+version = "0.1.0"
+edition = "2021"
+description = "nothing"
+license = "Apache-2.0"
+keywords = ["bytedance"]
+repository = "https://github.com/1654364091/bytedance.git"
+
+[dependencies]
